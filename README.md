@@ -1,6 +1,6 @@
 # APP VIAGEM
 
-A new Flutter project.
+Possibilita realizar pesquisas sobre os destinos e os mostrar individualmente.
 
 ## ![ExploreMundo01](https://github.com/user-attachments/assets/dea62bdd-a4bb-46e3-9478-f236a76bce05)
 
